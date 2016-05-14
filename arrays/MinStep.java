@@ -10,6 +10,7 @@
 //     (x-1,y+1), 
 //     (x+1,y-1) 
 // You are given a sequence of points and the order in which you need to cover the points. Give the minimum number of steps in which you can achieve it. You start from the first point.
+
 public class Solution {
     // X and Y co-ordinates of the points in order.
     // Each point is represented by (X.get(i), Y.get(i))
